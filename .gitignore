@@ -1,0 +1,26 @@
+# Archivos de compilación de Eclipse
+bin/
+target/
+build/
+out/
+
+# Metadatos y configuraciones locales de Eclipse
+.settings/
+.metadata/
+.recommenders/
+.apt_generated/
+.apt_generated_tests/
+.factorypath
+.springBeans
+.tern-project
+.sts4-cache/
+
+# Archivos de caché o temporales de Java / IDEs
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
